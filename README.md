@@ -1,2 +1,2 @@
 # Monteiro_Lobato
-Arquivos do jogo Monteiro Lobato
+Arquivos do projeto Monteiro Lobato
